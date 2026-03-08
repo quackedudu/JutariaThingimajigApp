@@ -1,7 +1,7 @@
 
-  # Jutaria Billionaire Game App
+  # Jutaria Thingimajig App
 
-  This is a code bundle for Jutaria Billionaire Game App. The original project is available at https://www.figma.com/design/vhaHzKnseO7UsS27Cm59n1/Jutaria-Billionaire-Game-App.
+  Introducing the Jutaria Thingimajig, probably a similar game like the hit betseller, Jutaria Billionaire, a popular tabletop board game, complete with 4+ multiplayer mode and custom rules settings.
 
   ## Running the code
 
