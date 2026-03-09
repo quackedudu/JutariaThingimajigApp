@@ -2,6 +2,8 @@
 
 A stunning digital companion app for **Jutaria Billionaire**, the Malaysian Monopoly-style board game! Track player finances, manage properties, and enhance your physical board game experience with beautiful visuals and automated gameplay mechanics.
 
+[Play Now](https://drill-oak-63704775.figma.site/)
+
 ![Made with React](https://img.shields.io/badge/React-18.x-61dafb?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.x-38bdf8?style=flat-square&logo=tailwindcss)
@@ -292,9 +294,7 @@ Having issues or questions?
 
 ### 🎲 Roll the dice and build your Malaysian property empire! 🏠
 
-Made with ❤️ in Malaysia 🇲🇾
-
-**[Play Now](https://drill-oak-63704775.figma.site/)
+[Play Now](https://drill-oak-63704775.figma.site/)
 
 </div>
 
