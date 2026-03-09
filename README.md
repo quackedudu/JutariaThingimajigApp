@@ -294,7 +294,7 @@ Having issues or questions?
 
 Made with ❤️ in Malaysia 🇲🇾
 
-**[Play Now](#) • [Report Bug](#) • [Request Feature](#)**
+**[Play Now](https://drill-oak-63704775.figma.site/)
 
 </div>
 
